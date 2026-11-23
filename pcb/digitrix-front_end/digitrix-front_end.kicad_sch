@@ -36,7 +36,7 @@
 					)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "Digitrix:5161AS"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -3907,7 +3907,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Digitrix:5161AS"
 			(at 39.37 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -4011,7 +4011,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Digitrix:5161AS"
 			(at 69.85 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -4115,7 +4115,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Digitrix:5161AS"
 			(at 68.58 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -4219,7 +4219,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Digitrix:5161AS"
 			(at 129.54 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -4323,7 +4323,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Digitrix:5161AS"
 			(at 39.37 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -4427,7 +4427,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Digitrix:5161AS"
 			(at 97.79 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -4531,7 +4531,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Digitrix:5161AS"
 			(at 68.58 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -4635,7 +4635,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Digitrix:5161AS"
 			(at 125.73 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -4739,7 +4739,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Digitrix:5161AS"
 			(at 97.79 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -4843,7 +4843,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Digitrix:5161AS"
 			(at 124.46 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -4947,7 +4947,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Digitrix:5161AS"
 			(at 39.37 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -5051,7 +5051,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Digitrix:5161AS"
 			(at 97.79 124.46 0)
 			(hide yes)
 			(show_name no)

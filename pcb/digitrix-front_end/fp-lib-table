@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Digitrix") (type "KiCad") (uri "${KIPRJMOD}/../part_library/Digitrix.pretty") (options "") (descr ""))
+)

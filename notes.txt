@@ -1,0 +1,2 @@
+Interesting parts:
+  RV-3032, could work as a RTC and a clock for the FPGA
